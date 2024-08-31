@@ -9,15 +9,15 @@ export default function Header() {
 }
 
 const StyledHeader = styled.header`
-    background-color: #333;
-    color: white;
-    padding: 0.5rem;
+    background-color: #fdfefe;
+    color: black;
+    padding: 0.2rem;
     text-align: center;
     width: 100%;
     position:absolute;
     top: 0;
     left: 0;
     z-index: 100;
-    box-shadow: 1rem 2rem 1rem rgba(0,0,0,0.2);
+    box-shadow: 2px 5px 30px lightgrey;
     margin: 0; 
 `
