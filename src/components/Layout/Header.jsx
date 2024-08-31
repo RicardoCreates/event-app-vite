@@ -3,7 +3,7 @@ import styled from "@emotion/styled";
 export default function Header() {
     return (
         <StyledHeader>
-            <h1>hallo </h1>
+            <h1>Event App</h1>
         </StyledHeader>
     )
 }
