@@ -5,7 +5,7 @@ export default function Events() {
     return (
         <StyledContainer>
             <h1>Events</h1>
-            <Link to="/">Go Back</Link>
+            <Link to="/public">Go Back</Link>
         </StyledContainer>
 
     )
